@@ -7,7 +7,7 @@ package org.example;
  */
 public class Main {
     /**
-     * default constructor no usages
+     * default constructor no usages 
      */
     public Main() {};
 
